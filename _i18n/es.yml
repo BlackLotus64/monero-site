@@ -6,7 +6,7 @@ langs:
   fr: Français
 
 global:
-  date: '%Y/%m/%d'
+  date: '%d/%m/%Y'
   monero: Monero
   getting_started: Para Empezar
   copyright: Copyright
@@ -85,13 +85,13 @@ home:
   more_news: Más noticias
   moneropedia: Moneropedia
   moneropedia_para: ¿Quieres ver las definiciones de términos y conceptos usados en Monero? Aquí encontrarás una lista alfabética de términos de los proyectos Monero y Kovri y sus significados.
-  moneropedia_button: Leer Moneropedia
+  moneropedia_button: Ver la Wiki
   user_guides: Guías de usuario
   user_guides_para: Guías que describen varios procesos paso a paso, separadas por categoría. Cubren todo desde cómo crear un monedero, hasta cómo editar este mismo sitio web.
-  user_guides_button: Ver guías de usuario
+  user_guides_button: Ver Guías
   faq: FAQ
-  faq_para: Hemos escuchado muchas preguntas a lo largo de los años y hemos compilado un FAQ variado y detallado para tu conveniencia. No te preocupes, si tus preguntas no están aquí, puedes hacerlas por los canales de comunicación de la comunidad.
-  faq_button: Ver respuestas
+  faq_para: Hemos compilado un FAQ específico y variado de las preguntas que han surgido a lo largo del tiempo. Si tienes alguna duda, puedes hacer tu pregunta a través de los canales de comunicación de la comunidad.
+  faq_button: Ver FAQ
 
 hangouts:
   translated: "yes"
@@ -123,7 +123,7 @@ team:
   developers_para3: A continuación encontrarás algunos individuos que han ido lejos por Monero.
   community: Comunidad
   mrl: Lab. de Investigación
-  thanks: Agradecimientos Especiales
+  thanks: Reconocimientos
 
 downloads:
   translated: "yes"
