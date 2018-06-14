@@ -444,7 +444,7 @@ specs:
   block_size: dinámico, con un máximo de 2 * M100
   block_emission_title: Curva de emisión
   block_emission_main: "primero, curva principal: ~18.132 millones de monedas para el final de mayo del 2022"
-  block_emission_tail: "después, cola de curva: 0.6 XMR por cada bloque (2 minutos), y comienza una vez se realiza la emisión principal, que se traduce en un <1% de reducción de inflación a través del tiempo"
+  block_emission_tail: "entonces, cola de curva: 0.6 XMR por cada bloque (2 minutos), y comienza una vez se realiza la emisión principal, que se traduce en un <1% de reducción de inflación a través del tiempo"
   block_emission_disclaimer1: Ver las 
   block_emission_disclaimer_link: gráficas y detalles
   block_emission_disclaimer2: ""
